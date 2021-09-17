@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">To Do</string>
+    <string name="text_title_input">Título</string>
+    <string name="hint_description">Descrição</string>
+    <string name="hint_data">Data</string>
+    <string name="hint_hour">Hora</string>
+    <string name="hint_cancel">Cancelar</string>
+    <string name="text_create_task">Criar tarefa</string>
+    <string name="tarefas_de_hoje">Tarefas de hoje</string>
+    <string name="bot_o_adicionar_tarefa">Botão adicionar tarefa</string>
+    <string name="label_edit">Editar</string>
+    <string name="deletar">Deletar</string>
+    <string name="ops">Ops! você não possui \n nenhuma tarefa para hoje</string>
+</resources>
